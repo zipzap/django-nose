@@ -3,7 +3,7 @@
 #
 
 # Latest Django
-Django>=2.2,<3.0
+Django
 
 # This project
 -e .
@@ -16,14 +16,14 @@ wheel==0.29.0
 twine==1.9.1
 
 # PEP8, PEP257, and static analysis
-flake8==3.4.1
+flake8
 flake8-docstrings==1.1.0
 
 # Code coverage
 coverage==4.4.1
 
 # Documentation
-Sphinx==1.6.3
+Sphinx
 
 # Packaging Linters
 check-manifest==0.35
@@ -34,6 +34,6 @@ tox==2.7.0
 
 # Better interactive debugging
 gnureadline==6.3.3
-ipython==5.4.1
-ipdb==0.10.3
+ipython
+ipdb
 ipdbplugin==1.4.5
